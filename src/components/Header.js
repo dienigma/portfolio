@@ -3,13 +3,25 @@ import { Link } from "gatsby"
 
 const Header = () => {
   return (
-    <nav>
+    <header>
       <h1>Chinmay Joshi</h1>
-      <Link to="/about">About</Link>
-      <Link to="/contact">Contact</Link>
-      <Link to="/blog">Blog</Link>
-      <Link to="/index">Home</Link>
-    </nav>
+      <nav>
+        <ul>
+          <li>
+            <Link to="/about">About</Link>
+          </li>
+          <li>
+            <Link to="/contact">Contact</Link>
+          </li>
+          <li>
+            <Link to="/blog">Blog</Link>
+          </li>
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+        </ul>
+      </nav>
+    </header>
   )
 }
 
