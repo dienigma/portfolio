@@ -1,18 +1,16 @@
 import React from "react"
-import Footer from "../components/Footer"
-import Header from "../components/Header"
+
+import Layout from "../components/layout"
 const ContactPage = () => {
   return (
-    <div>
-      <Header />
+    <Layout>
       <h1>Contact Me</h1>
       <p>Email: joshi.chinmay09@gmail.com</p>
       <p>Mobile No: +91 8530134149</p>
       <p>
         <a href="https://github.com/dienigma">Github</a>
       </p>
-      <Footer />
-    </div>
+    </Layout>
   )
 }
 
