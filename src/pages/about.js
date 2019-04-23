@@ -7,23 +7,15 @@ const AboutPage = () => {
     <Layout>
       <h1>About Me</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
+        Adept at communicating, I'm a quick learner with a habit of implementing
+        everything I learn to the best of my knowledge. I strongly believe in
+        being a lifelong student because there is always something new around
+        the corner. Generally a confident person, I step up and take the lead
+        when the situation so demands. Even so, I follow the principle of
+        'Ubuntu' which means 'I am, because we are'. I am looking forward to
+        work with you and be an asset to the company.
       </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
-      </p>
+
       <p>
         Need a developer? <Link to="/contact">Contact me</Link>
       </p>
