@@ -3,5 +3,14 @@ module.exports = {
     title: "Chinmay Joshi",
     author: "Chinmay Mandar Joshi",
   },
-  plugins: ["gatsby-plugin-sass"],
+  plugins: [
+    "gatsby-plugin-sass",
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "src",
+        path: `${__dirname}/src/`,
+      },
+    },
+  ],
 }
