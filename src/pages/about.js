@@ -12,8 +12,7 @@ const AboutPage = () => {
         being a lifelong student because there is always something new around
         the corner. Generally a confident person, I step up and take the lead
         when the situation so demands. Even so, I follow the principle of
-        'Ubuntu' which means 'I am, because we are'. I am looking forward to
-        work with you and be an asset to the company.
+        'Ubuntu' which means 'I am, because we are'.
       </p>
 
       <p>
