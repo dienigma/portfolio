@@ -38,9 +38,8 @@ module.exports.onCreateNode = ({ node, actions }) => {
 //     })
 //   })
 
-  // Get path to template.
+// Get path to template.
 
-  // get markdown data
-  // create new pages.
-}
-
+// get markdown data
+// create new pages.
+// }
